@@ -75,7 +75,7 @@ Podéis descargar el disco / volumen para la máquina virtual desde la siguiente
 
 https://drive.google.com/file/d/1fIR2Bo3ZHugnGrlN9gZahGa2xHmYMUFH/view?usp=sharing
 
-Nota= si obtiene un error al descomprimir el archivo en un cliente Windows,  intente con otra herramienta de descrompesión diferente como Winrar.
+Nota= si obtiene un error al descomprimir el archivo en un cliente Windows,  intente con otra herramienta de descrompesión diferente como por ejemplo Winrar.
 
 ### Arranque de la máquina virtual
 
