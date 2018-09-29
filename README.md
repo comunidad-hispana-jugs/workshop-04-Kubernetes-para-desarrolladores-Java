@@ -23,6 +23,9 @@ Si es posible trae tu laptop o equipo portátil para que practique con nosotros,
 Nivel: Principiantes
 Tipo: Taller
 Duración: 2 horas
+
+Slides Presentación:
+https://docs.google.com/presentation/d/1BPbOXfEsdUncumPIBu5unlYFbCQXhCtFGqdIdhtDNW4
  
 Preparación del taller:
 Instalación de Docker o Docker Toolbox.
