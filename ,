@@ -1,0 +1,26 @@
+# Guía para organizadores
+
+La idea de esta guía es proporcionar algunos recursos para incidencias que puedan ocurrir a los asistentes en remoto.
+
+## Puesta en marcha de la máquina virtual
+Seguir los pasos descritos en el READMA.md pero se ha reportado que puede surgir algún problema en equipos Windows que no tengo controlado.
+
+### Si el asistente tiene problemas con la máquina virtual
+Si se da el caso de que el asistente no ha acudido con la máquina virtual, existe la opción si el usuario tiene `Docker` instalado, de realizar el workshop con la versión de Kubernetes local (`minikube`).
+
+Para ello si el asistente tiene el icono de `Docker` en el área de notificaciones, el menú contextual podemos activar y configurar `minikube`, una vez activado con la consola ejecutar el comando `kubectl get nodes` que debería devolver una lista con los nodos de `minikube`.
+
+Una vez activado `minikube` el asistente podrá seguir el workshop clonando el repositorio, y utilizando los ficheros en la carpeta `nginx` y `wildfly` y los comandos en el README.md.
+
+## Problemas en la ejecución de alguno de los comandos.
+
+Por norma general, si el comando `kubectl get nodes` funciona no debería haber problemas para ejecutar el resto del workshop.
+
+Durante el workshop después de la explicación de cada comando, describiremos el output esperado.
+
+Comentaremos antes del workshop que si el output al asistente no le cuadra con el esperado lo comente por el canal de slack
+
+
+
+
+
